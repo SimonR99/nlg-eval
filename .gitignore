@@ -22,3 +22,12 @@ glove2word2vec.py
 
 .idea/
 venv/
+
+# build
+build/*
+
+# dataset
+nlgeval/stanford-corenlp-full-2015-12-09/*
+nlgeval/pycocoevalcap/*
+.mypy_cache/*
+DATA_DIR/*
